@@ -86,7 +86,8 @@ button.active {
 }
 
 .purchase {
-	margin-top: 5rem;
+	margin-top: 2rem;
+	margin-bottom: 2rem;
 	transition: all 0.75s ease-out;
 }
 
